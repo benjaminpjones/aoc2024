@@ -1,3 +1,5 @@
+// g++ soln3.cpp -o soln3.out && ./soln3.out < in3.txt
+
 #include <iostream>
 #include <regex>
 
